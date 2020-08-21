@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arithmatics/Arithmatics.iml" filepath="$PROJECT_DIR$/Arithmatics/Arithmatics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics.iml" filepath="$PROJECT_DIR$/Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DecesionMaking/DecesionMaking.iml" filepath="$PROJECT_DIR$/DecesionMaking/DecesionMaking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LogicalOperators/LogicalOperators.iml" filepath="$PROJECT_DIR$/LogicalOperators/LogicalOperators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops/Loops.iml" filepath="$PROJECT_DIR$/Loops/Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodsAndAccessModifiers/MethodsAndAccessModifiers.iml" filepath="$PROJECT_DIR$/MethodsAndAccessModifiers/MethodsAndAccessModifiers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimitiveDataTypes/PrimitiveDataTypes.iml" filepath="$PROJECT_DIR$/PrimitiveDataTypes/PrimitiveDataTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RelationalOperators/RelationalOperators.iml" filepath="$PROJECT_DIR$/RelationalOperators/RelationalOperators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwitchCase/SwitchCase.iml" filepath="$PROJECT_DIR$/SwitchCase/SwitchCase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Variables/Variables.iml" filepath="$PROJECT_DIR$/Variables/Variables.iml" />
+    </modules>
+  </component>
+</project>

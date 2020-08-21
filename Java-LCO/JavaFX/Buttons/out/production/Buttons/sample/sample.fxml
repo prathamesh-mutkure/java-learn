@@ -1,0 +1,14 @@
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.layout.GridPane?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<GridPane fx:controller="sample.Controller"
+          xmlns:fx="http://javafx.com/fxml" alignment="center" hgap="35" vgap="20" gridLinesVisible="false">
+
+    <Button text="Java" onAction="#onJavaTapped" textFill="gray" GridPane.columnIndex="0" GridPane.rowIndex="0" />
+    <Button text="Python" onAction="#onPythonTapped" textFill="gray" GridPane.columnIndex="0" GridPane.rowIndex="1" />
+    <Button text="C++" onAction="#onCppTapped" textFill="gray" GridPane.columnIndex="1" GridPane.rowIndex="0" />
+    <Button text="C" onAction="#onCTapped" textFill="gray" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+
+</GridPane>

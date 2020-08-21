@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Calculations/Calculations.iml" filepath="$PROJECT_DIR$/Calculations/Calculations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Comparision/Comparision.iml" filepath="$PROJECT_DIR$/Comparision/Comparision.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DayDateConverter/DayDateConverter.iml" filepath="$PROJECT_DIR$/DayDateConverter/DayDateConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactorialOfANumber/FactorialOfANumber.iml" filepath="$PROJECT_DIR$/FactorialOfANumber/FactorialOfANumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fahrenheit-Celsius/Fahrenheit-Celsius.iml" filepath="$PROJECT_DIR$/Fahrenheit-Celsius/Fahrenheit-Celsius.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaNINE/JavaNINE.iml" filepath="$PROJECT_DIR$/JavaNINE/JavaNINE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeapYear/LeapYear.iml" filepath="$PROJECT_DIR$/LeapYear/LeapYear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListNumbers/ListNumbers.iml" filepath="$PROJECT_DIR$/ListNumbers/ListNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MalformedURLException/MalformedURLException.iml" filepath="$PROJECT_DIR$/MalformedURLException/MalformedURLException.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/Patterns.iml" filepath="$PROJECT_DIR$/Patterns/Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programs.iml" filepath="$PROJECT_DIR$/Programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Random/Random.iml" filepath="$PROJECT_DIR$/Random/Random.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rating-Grading-System/Rating-Grading-System.iml" filepath="$PROJECT_DIR$/Rating-Grading-System/Rating-Grading-System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortingAlgorithms/SortingAlgorithms.iml" filepath="$PROJECT_DIR$/SortingAlgorithms/SortingAlgorithms.iml" />
+    </modules>
+  </component>
+</project>
