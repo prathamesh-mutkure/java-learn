@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FirstLetterCapital/FirstLetterCapital.iml" filepath="$PROJECT_DIR$/FirstLetterCapital/FirstLetterCapital.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List/List.iml" filepath="$PROJECT_DIR$/List/List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyProjects.iml" filepath="$PROJECT_DIR$/MyProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyTodoListApp/MyTodoListApp.iml" filepath="$PROJECT_DIR$/MyTodoListApp/MyTodoListApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimunEquations/SimunEquations.iml" filepath="$PROJECT_DIR$/SimunEquations/SimunEquations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwapLetters/SwapLetters.iml" filepath="$PROJECT_DIR$/SwapLetters/SwapLetters.iml" />
+    </modules>
+  </component>
+</project>
